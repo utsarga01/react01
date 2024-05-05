@@ -1,15 +1,20 @@
 import './App.css';
+import Navigation from './components/Navigation';
 
 function App() {
-  return 
-   <div>
-    <h1>
-      React002
-    </h1>
+  return (
+    <div>
+      <Navigation />
+    </div>
 
 
-   </div>
-  
+
+
+
+  )
+
+
+ 
 }
 
 export default App
